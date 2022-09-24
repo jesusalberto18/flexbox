@@ -92,6 +92,7 @@
 .footer-item {
   border: 1px solid #fff;
   color: #5995DA;
+  font-weight: bolder;
   background-color: #D6E9FE;
   height: 200px;
   flex: 1;
@@ -100,12 +101,12 @@
   justify-content: center;
 }
 
-.footer-one {
+.footer-one, .footer-three {
   flex: 2;
   justify-content: center;
-}
-
-.footer-three {
-  flex: 2;
-  justify-content: center;
+  background-color: #5995DA;
+  color: #fff;
+  font-weight: bolder;
+  flex: initial;
+  width: 300px;
 }
