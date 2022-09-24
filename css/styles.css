@@ -41,3 +41,15 @@
   justify-content: space-between;
   align-items: center;
 }
+
+.logo {
+  border: 1px solid #5995DA;
+  border-radius: 60px;
+  padding: 30px;
+}
+
+.subscribe, .social {
+  border: 1px solid #5995DA;
+  border-radius: 60px;
+  padding: 30px;
+}
