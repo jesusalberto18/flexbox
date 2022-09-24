@@ -68,6 +68,14 @@
   align-items: center;
 }
 
+.first-item {
+  order: 1;
+}
+
+.last-item {
+  order: -1;
+}
+
 .photo-grid-item {
   border: 1px solid #fff;
   width: 300px;
