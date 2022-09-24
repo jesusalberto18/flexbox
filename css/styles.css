@@ -86,12 +86,16 @@
 
 .footer {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .footer-item {
   border: 1px solid #fff;
+  color: #5995DA;
   background-color: #D6E9FE;
   height: 200px;
   flex: 1;
+  display: flex;
+  align-items: center;
+  text-align: center;
 }
