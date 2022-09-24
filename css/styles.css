@@ -49,9 +49,11 @@
 }
 
 .subscribe, .social {
-  border: 1px solid #ff66cc;
-  border-radius: 40px;
+  border-top: 1px solid #ff66cc;
+  border-bottom: 1px solid #ff66cc;
   padding: 20px;
+  align-self: flex-end;
+  margin-bottom: 20px;
 }
 
 .photo-grid-container {
